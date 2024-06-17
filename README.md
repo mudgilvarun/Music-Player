@@ -1,2 +1,1 @@
-# Music-Player
-Music Player Using Js
+I developed a music player web application using JavaScript.
